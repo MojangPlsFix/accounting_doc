@@ -4,6 +4,9 @@ site_author: Fabian Rossmann
 edit_uri: ""
 repo_url: https://github.com/fabrossmann/accounting_doc
 
+theme:
+    name: readthedocs
+
 nav:
     - Home: index.md
     
