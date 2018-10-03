@@ -1,0 +1,4 @@
+site_name: Accounting Matura Documentation
+repo_url: https://github.com/fabrossmann/accounting_doc
+nav:
+    - 'Introduction': 'readme.md'
