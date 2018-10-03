@@ -1,4 +1,3 @@
-Externe Unternehmensrechnung 1
 ## System der doppelten Buchhaltung
  Begriff, Funktionen und Teilbereiche des Rechnungswesens, Gesetzliche Bestimmungen hinsichtlich Buchführungspflicht und Formvorschriften, System der doppelten Buchführung mit Bilanz als Ausgangspunkt, Kontenlehre und doppelte Erfolgsermittlung, Merkmale der doppelten Buchführung
 ---
