@@ -1,4 +1,8 @@
 site_name: Accounting Matura Documentation
+site_description: Documentation for the Accounting Matura
+site_author: Fabian Rossmann
+edit_uri: ""
 repo_url: https://github.com/fabrossmann/accounting_doc
+
 nav:
-    - 'Introduction': 'readme.md'
+    - Home: readme.md
