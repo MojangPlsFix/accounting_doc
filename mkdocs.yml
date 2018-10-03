@@ -5,4 +5,6 @@ edit_uri: ""
 repo_url: https://github.com/fabrossmann/accounting_doc
 
 nav:
-    - Home: readme.md
+    - Home: index.md
+    
+copyright: Copyright &copy; 2018 Fabian Rossmann/a>.
