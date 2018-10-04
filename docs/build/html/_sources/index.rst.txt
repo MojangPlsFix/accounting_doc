@@ -1,15 +1,23 @@
 BWM Matura Summary
 =============================================
+Das ist meine Zusammenfassung von BWM
+
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Rechnungswesen (RW)
+
+   pool1
+   pool2
+   pool3
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Betriebswirtschaft und Management (BO)
+
+   pool4
+   pool5
+   pool6
 
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

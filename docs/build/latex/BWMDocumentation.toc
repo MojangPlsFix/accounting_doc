@@ -1,0 +1,21 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}Externe Unternehmensrechnung I}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}System der doppelten Buchhaltung}{3}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Begriff}{3}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Funktionen und Teilbereiche des Rechnungswesens}{3}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Gesetzliche Bestimmungen hinsichtlich Buchf\IeC {\"u}hrungspflicht und Formvorschriften}{3}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.1.4}System der doppelten Buchf\IeC {\"u}hrung mit Bilanz als Ausgangspunkt}{3}{subsection.1.1.4}
+\contentsline {subsection}{\numberline {1.1.5}Kontenlehre und doppelte Erfolgsermittlung}{3}{subsection.1.1.5}
+\contentsline {subsection}{\numberline {1.1.6}Merkmale der doppelten Buchf\IeC {\"u}hrung}{3}{subsection.1.1.6}
+\contentsline {section}{\numberline {1.2}Verbuchnung laufender Gesch\IeC {\"a}ftsf\IeC {\"a}lle 1}{4}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Buchungen auf Lieferanten- und Kundenkonten}{4}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Verbuchung von Wareneink\IeC {\"a}ufen, Warenverk\IeC {\"a}ufen}{4}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Transportkosten}{4}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}Gutschriften aufgrund von Warenr\IeC {\"u}cksendungen}{5}{subsection.1.2.4}
+\contentsline {subsection}{\numberline {1.2.5}Nachtr\IeC {\"a}glich gew\IeC {\"a}hrter Rabatte}{5}{subsection.1.2.5}
+\contentsline {subsection}{\numberline {1.2.6}Belegwesen}{6}{subsection.1.2.6}
+\contentsline {chapter}{\numberline {2}Pool1}{7}{chapter.2}
+\contentsline {chapter}{\numberline {3}Pool1}{9}{chapter.3}
+\contentsline {chapter}{\numberline {4}Pool1}{11}{chapter.4}
+\contentsline {chapter}{\numberline {5}Pool1}{13}{chapter.5}
+\contentsline {chapter}{\numberline {6}Pool1}{15}{chapter.6}
