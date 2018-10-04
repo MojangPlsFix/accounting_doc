@@ -9,7 +9,6 @@ CommonMark==0.5.4
 cryptography==2.1.4
 docutils==0.14
 enum34==1.1.6
-futures==3.2.0
 idna==2.7
 imagesize==1.1.0
 ipaddress==1.0.17
@@ -18,6 +17,7 @@ keyring==10.6.0
 keyrings.alt==3.0
 livereload==2.5.2
 MarkupSafe==1.0
+packaging==18.0
 pathtools==0.1.2
 port-for==0.3.1
 pycrypto==2.6.1
