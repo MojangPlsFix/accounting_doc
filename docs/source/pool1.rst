@@ -181,6 +181,7 @@ Belegwesen
 
 **Begriff:**
 
+
 Der Beleg ist eine schriftliche Aufzeichnung (Dokument) über einen betrieblichen Vorgang, der alle wesentlichen Daten eines Geschäftsfalles enthält. Aufgrund seiner betrieblichen Relevanz muss er in der Buchhaltung ordnungsgemäß erfasst werden und dient als Grundlage für die Verbuchung des zugrunde liegenden Geschäftsfalles.
  
 **Beleggrundsätze**
@@ -202,4 +203,40 @@ Der Beleg ist eine schriftliche Aufzeichnung (Dokument) über einen betriebliche
 - Privat - P
 - Sonstige Belege - S
 
+---------------------------------------------------------------------------------------
 
+
+Verbuchung laufender Geschäftsfälle 2
+----------------------------------------
+
+Buchungen im Zusammenhang mit den verschiedenen Zahlungsarten
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(Barzahlung, Bankomatkarten, Kreditkarten)
+
+Skonto
+~~~~~~
+
+Mahnspesen und Verzugszinsen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Bankbuchungen;
+~~~~~~~~~~~~~~~
+
+Kfz-Kosten
+~~~~~~~~~~~~
+
+(grundsätzlicher Unterschied bei der Verbuchung von Betriebskosten für PKW und LKW),
+
+Steuern
+~~~~~~~~~~~~
+
+(Arten von Steuern)
+
+Verbuchung von Löhnen
+~~~~~~~~~~~~~~~~~~~~~~
+
+Gehältern und Personalnebenkosten 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(Grundschema Abrechnung von Löhnen und Gehältern, lohn- und gehaltsabhängige Abgaben)

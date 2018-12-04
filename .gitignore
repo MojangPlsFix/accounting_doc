@@ -1,8 +1,9 @@
-docs/build/*
+
 
 # sphinx build folder
 _build
-docs/build
+docs/_build/*
+docs/build/*
 
 # Compiled source #
 ###################
@@ -38,7 +39,9 @@ docs/build
 ehthumbs.db
 Icon?
 Thumbs.db
+.vscode
 
 # Editor backup files #
 #######################
 *~
+
